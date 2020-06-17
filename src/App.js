@@ -77,6 +77,13 @@ function CountdownTimer() {
         {timerComponents[3]}
         {timerComponents[4]}
       </div>
+      <div className="hori-center">
+        <footer>
+          <a href="https://github.com/AdamAlam/AustinCountdown">
+            Click Here to View the Code
+          </a>
+        </footer>
+      </div>
     </React.Fragment>
   );
 }
